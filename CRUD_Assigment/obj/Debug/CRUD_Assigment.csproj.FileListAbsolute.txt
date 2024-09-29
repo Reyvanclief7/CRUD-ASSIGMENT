@@ -1,0 +1,3 @@
+C:\R\Assigment\CRUD_Assigment\obj\Debug\CRUD_Assigment.csproj.AssemblyReference.cache
+C:\R\Assigment\CRUD_Assigment\obj\Debug\CRUD_Assigment.csproj.SuggestedBindingRedirects.cache
+C:\R\Assigment\CRUD_Assigment\obj\Debug\CRUD_Assigment.exe.config
